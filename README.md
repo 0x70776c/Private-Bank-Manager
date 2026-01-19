@@ -1,4 +1,4 @@
-# Bank Manager 🏦
+# Bank Manager 
 
 Eine voll funktionsfähige Banking-Applikation mit grafischer Benutzeroberfläche (GUI), entwickelt im Rahmen des Moduls **Objektorientierte Softwareentwicklung (OOS)** an der FH Aachen University of Applied Sciences (3. Semester).
 
@@ -6,7 +6,7 @@ Dieses Projekt demonstriert die iterative Entwicklung einer komplexen Java-Anwen
 
 ---
 
-## 🚀 Funktionalität & Features
+##  Funktionalität & Features
 
 Der PrivateBank Manager ermöglicht die Verwaltung von Bankkonten und deren Transaktionen über eine moderne JavaFX-Oberfläche:
 
@@ -21,7 +21,7 @@ Der PrivateBank Manager ermöglicht die Verwaltung von Bankkonten und deren Tran
 
 ---
 
-## 🎓 Lernziele & Projektfortschritt (P1 - P5)
+## Lernziele & Projektfortschritt (P1 - P5)
 
 Das Projekt wurde über fünf aufeinanderfolgende Praktika entwickelt, wobei jedes Praktikum neue Technologien und Konzepte eingeführt hat:
 
@@ -35,7 +35,7 @@ Das Projekt wurde über fünf aufeinanderfolgende Praktika entwickelt, wobei jed
 
 ---
 
-## 📂 Projektstruktur
+##  Projektstruktur
 
 Das Projekt folgt einer sauberen **MVC-Architektur (Model-View-Controller)** mit strikter Trennung von Logik, Datenhaltung und Anzeige:
 ### Projektstruktur
@@ -77,7 +77,7 @@ Das Projekt folgt einer sauberen **MVC-Architektur (Model-View-Controller)** mit
 ```
 ---
 
-## 🛠️ Technologie-Stack
+##  Technologie-Stack
 
 - **Sprache:** Java 17+
 - **Build System:** Maven
@@ -87,7 +87,7 @@ Das Projekt folgt einer sauberen **MVC-Architektur (Model-View-Controller)** mit
 
 ---
 
-## ▶️ Installation & Setup
+##  Installation & Setup
 
 1. **Repository klonen:**
 
